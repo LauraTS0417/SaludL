@@ -5,7 +5,7 @@ const appointmentForm = document.getElementById('appointmentForm');
 const modal = document.getElementById('confirmationModal');
 const dateInput = document.getElementById('date');
 const selectedServices = new Set();
-const WHATSAPP_NUMBER = '+573004804521';
+const WHATSAPP_NUMBER = '+573012344124';
 
 // Configurar las restricciones de fecha
 function configureDateInput() {

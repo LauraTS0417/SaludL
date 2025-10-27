@@ -348,7 +348,7 @@ function sendWhatsApp() {
     const mensaje = `*RESULTADO INVENTARIO DE DEPRESIÓN DE BECK*%0A%0A*Datos del Paciente:*%0ANombre: ${nombre}%0AIdentificación: ${identificacion}%0A%0A*Puntuación Total: ${total}*%0A%0A*Interpretación:*%0A${interpretation}${detalles}`;
 
     // URL de WhatsApp
-    const whatsappUrl = `https://wa.me/573004804521?text=${mensaje}`;
+    const whatsappUrl = `https://wa.me/573012344124?text=${mensaje}`;
 
     // Abrir WhatsApp
     window.open(whatsappUrl, '_blank');
